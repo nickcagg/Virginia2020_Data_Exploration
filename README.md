@@ -6,4 +6,4 @@ All of the data was limited to ZIP codes within the State of VIrginia published 
 
 ### Overall Objective
 
-Understanding the demographics of the *Commonwealth of Virginia* using K-means clustering and a Gaussian Mixture Model to segment the state with data centered on population, industry, gender, and education.
+Understanding the demographics of the *Commonwealth of Virginia* using K-means clustering and a Gaussian Mixture Model to segment the state with data centered on population (size, age, gender), industry, and education.
