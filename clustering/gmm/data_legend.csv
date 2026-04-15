@@ -1,0 +1,33 @@
+Column,DataType
+Total in Working Age,float64
+Less than high school graduate,float64
+High school graduate (includes equivalency),float64
+Some college or associate's degree,float64
+Bachelor's degree or higher,float64
+ZIP,float64
+Total Population,float64
+Population_log_ratio,float64
+Under 5 years_log_ratio,float64
+5 to 9 years_log_ratio,float64
+10 to 14 years_log_ratio,float64
+15 to 19 years_log_ratio,float64
+20 to 24 years_log_ratio,float64
+25 to 29 years_log_ratio,float64
+30 to 34 years_log_ratio,float64
+35 to 39 years_log_ratio,float64
+40 to 44 years_log_ratio,float64
+45 to 49 years_log_ratio,float64
+50 to 54 years_log_ratio,float64
+55 to 59 years_log_ratio,float64
+60 to 64 years_log_ratio,float64
+65 to 69 years_log_ratio,float64
+70 to 74 years_log_ratio,float64
+75 to 79 years_log_ratio,float64
+80 to 84 years_log_ratio,float64
+85 years and over_log_ratio,float64
+Total Employed Civillians Above 16,float64
+"Management, business, science, and arts occupations",float64
+Service occupations,float64
+Sales and office occupations,float64
+"Natural resources, construction, and maintenance occupations",float64
+"Production, transportation, and material moving occupations",float64
